@@ -1,0 +1,28 @@
+body{
+    background-color: palevioletred;
+    color: white;
+    margin-left: 50px;
+}
+
+h3{
+    text-align: center;
+    background-color: aqua;
+    height: 30px;
+    width: 800px;
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+}
+
+p{
+    color: blueviolet;
+}
+
+h1{
+    color: powderblue;
+}
+
+#camera {
+    width : 350px;
+    height : 300px;
+    border : 2px dashed black;
+}
